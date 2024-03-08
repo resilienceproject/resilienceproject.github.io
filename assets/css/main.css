@@ -2910,6 +2910,16 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
+			.main.style3 ul {
+				list-style: disc;
+				margin: 0 0 2em 0;
+				padding-left: 2em;
+			}
+
+			.main.style3 li {
+				padding-left: 0.5em;
+			}
+
 /* Header */
 
 	#header {
